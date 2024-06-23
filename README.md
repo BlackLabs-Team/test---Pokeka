@@ -9,3 +9,7 @@ Pokekaの練習用ページ
 **のっち**
 
 ` code `
+
+```
+coooooooode
+```
