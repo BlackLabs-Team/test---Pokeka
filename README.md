@@ -13,4 +13,3 @@ Pokekaの練習用ページ
 ```
 coooooooode
 ```
-\**hutomozi**\
