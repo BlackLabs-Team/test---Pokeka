@@ -1,5 +1,5 @@
 
-wikimain > update
+wikimain.md > update.md
 
 ---
 
