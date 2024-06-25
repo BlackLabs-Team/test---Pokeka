@@ -7,5 +7,8 @@ Kuroneko Networkは [**日本版hypixel**] を目標にしているマインク�
 ロビーには空を飛ぶかのようなランダムな体験ができるアスレチックがあります！
 
 
-## アップデート内容
-<URL=Network_update.md,title=一覧を見る,icon=kuroneko>でアップデート情報を受け取れます
+## サーバー公式SNS
+<URL=discord,title=discord,icon=discord> <URL=X,title=公式X(旧Twitter),icon=blue_torriy> <URL=youtube,title=youtube,icon=youtube>
+
+<callout:{title=discordとXでは最新情報がアップされるので、参加やフォローをおすすめします。,icon=○+i}>
+<callout:{title=youtubeでは不定期配信しています！　KuronekoNetworkで遊ぶので是非ご参加ください。,icon=🔴}>
