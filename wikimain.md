@@ -4,7 +4,7 @@ Kuroneko Networkは [**日本版hypixel**] を目標にしているマインク�
 
 サバイバルやBedwarsなど基本的なサーバーはもちろん。　
 
-ロビーには空を飛ぶかのようなランダムな体験ができるアスレチックがあります！
+ロビーには空を飛ぶかのような、そしてランダムな体験ができるアスレチックがあります！
 
 
 ## サーバー公式SNS
@@ -12,3 +12,4 @@ Kuroneko Networkは [**日本版hypixel**] を目標にしているマインク�
 
 <callout:{title=discordとXでは最新情報がアップされるので、参加やフォローをおすすめします。,icon=○+i}>
 <callout:{title=youtubeでは不定期配信しています！　KuronekoNetworkで遊ぶので是非ご参加ください。,icon=🔴}>
+
