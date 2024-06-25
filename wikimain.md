@@ -1,4 +1,4 @@
-```Kuroneko Networkへようこそ```
+```**Kuroneko Networkへようこそ**```
 
 Kuroneko Networkは日本版hypixelを目指しているマインクラフトサーバーです！
 
