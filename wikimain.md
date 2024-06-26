@@ -56,3 +56,23 @@ afkサーバーで熟睡しよう！
 
   <val=5,head=接続完了！,text=KuronekoNetworkをお楽しみください！>
 {/step}
+
+\[統合版で参加したい場合]
+
+{step}
+  <val=1,head=サーバー画面を開く,text=プレイボタンを押し、左上のサーバーを押しましょう>
+  <image>
+
+  <val=2,head=サーバー追加を開く,text=特集サーバーリストの一番下にある追加ボタンを押す>
+  <image>
+
+  <val=3,head=名前とアドレスを書く,text=サーバー名にKuronekoNetwork、サーバーアドレスにkuroneko.click、ポートに25565を書いて完了を押す>
+  <image>
+
+  <val=4,head=サーバーに接続する,text=追加されたKuronekoNetworkを選択してサーバーに接続を押す>
+  <image>
+
+  <val=5,head=接続完了！,text=KuronekoNetworkをお楽しみください！>
+{/step}
+
+*書き残し　家庭用ゲーム機でも参加できるようになるので、フレンド画面でサーバーに接続できる機能欲しいです https://agepote.jp/yakudatu/gerysermc-mcxboxbroadcast＊
