@@ -7,13 +7,12 @@ Kuroneko Networkは [**日本版hypixel**] を目標にしているマインク�
 ロビーには空を飛ぶかのような、そしてランダムな体験ができるアスレチックがあります！
 
 
-
-
 ## サーバー公式SNS
-<URL=discord,title=discord,icon=discord> <URL=X,title=公式X(旧Twitter),icon=blue_torriy> <URL=youtube,title=youtube,icon=youtube>
+<card:{URL=discord,title=discord,icon=discord}> <card:{URL=X,title=公式X(旧Twitter),icon=blue_torriy}> <card:{URL=youtube,title=youtube,icon=youtube}>
 
-<callout:{title=discordとXでは最新情報がアップされるので、参加やフォローをおすすめします。,icon=○+i}>
-<callout:{title=youtubeでは不定期配信しています！　KuronekoNetworkで遊ぶので是非ご参加ください。,icon=🔴}>
+<callout:{text=discordとXでは最新情報がアップされるので、参加やフォローをおすすめします。,icon=○+i}>
+<callout:{text=youtubeでは不定期配信しています！　KuronekoNetworkで遊ぶので是非ご参加ください。,icon=🔴}>
+
 
 ## 個別サーバー紹介
 
@@ -36,3 +35,23 @@ KuronekoNetworkのいろいろなサーバーに行けるところです！
 ### afkサーバー
 放置専用サーバーです。
 afkサーバーで熟睡しよう！
+
+
+## サーバー参加方法
+
+~Java版で参加したい場合~
+
+{step}
+  <val=1,head=マルチプレイ画面を開く,text=マイクラ1.8~1.20.6を起動しマルチプレイボタンを押す>
+  <image>
+
+  <val=2,head=サーバー追加を開く,text=右下のサーバー追加画面を押す>
+  <image>
+
+  <val=3,head=名前とアドレスを書く,text=サーバー名にKuronekoNetwork、サーバーアドレスにkuroneko.clickを書いて完了を押す>
+  <image>
+
+  <val=4,head=サーバーに接続する,text=追加されたKuronekoNetworkをダブルクリックする>
+  <image>
+
+  <val=5,head=接続完了！,text=KuronekoNetworkをお楽しみください！>
