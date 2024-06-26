@@ -14,6 +14,7 @@ Kuroneko Networkは [**日本版hypixel**] を目標にしているマインク�
 <callout:{title=youtubeでは不定期配信しています！　KuronekoNetworkで遊ぶので是非ご参加ください。,icon=🔴}>
 
 # 個別サーバー紹介
+
 ### Realife
 まちづくりや経済を楽しめるサーバーです！
 色々な機能が追加されたサバイバルが楽しめます。
