@@ -13,3 +13,5 @@ Pokekaの練習用ページ
 ```
 coooooooode
 ```
+
+hidekoとfaruの年齢14歳(2024/7/29)
