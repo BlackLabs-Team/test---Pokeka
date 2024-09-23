@@ -29,38 +29,7 @@ hubからRealifeなどの様々なサーバーにアクセスできます
 
 ## サーバー参加方法
 
-\[Java版で参加したい場合]
-
-{step}
-  <val=1,head=マルチプレイ画面を開く,text=マイクラ1.8~1.20.6を起動しマルチプレイボタンを押す>
-  <image>
-
-  <val=2,head=サーバー追加を開く,text=右下のサーバー追加画面を押す>
-  <image>
-
-  <val=3,head=名前とアドレスを書く,text=サーバー名にKuronekoNetwork、サーバーアドレスにkuroneko.clickを書いて完了を押す>
-  <image>
-
-  <val=4,head=サーバーに接続する,text=追加されたKuronekoNetworkをダブルクリックする>
-  <image>
-
-  <val=5,head=接続完了！,text=KuronekoNetworkをお楽しみください！>
-{/step}
-
-\[統合版で参加したい場合]
-
-{step}
-  <val=1,head=サーバー画面を開く,text=プレイボタンを押し、左上のサーバーを押しましょう>
-  <image>
-
-  <val=2,head=サーバー追加を開く,text=特集サーバーリストの一番下にある追加ボタンを押す>
-  <image>
-
-  <val=3,head=名前とアドレスを書く,text=サーバー名にKuronekoNetwork、サーバーアドレスにkuroneko.click、ポートに25565を書いて完了を押す>
-  <image>
-
-  <val=4,head=サーバーに接続する,text=追加されたKuronekoNetworkを選択してサーバーに接続を押す>
-  <image>
-
-  <val=5,head=接続完了！,text=KuronekoNetworkをお楽しみください！>
-{/step}
+サーバー参加方法は使用機種によって異なります。
+・Java版の場合は<URL=java_join,text=Java版での接続方法>
+・統合版(PC,タブレットなど)<URL=tablet_join,text=タブレットなどでの接続方法>
+・家庭用ゲーム機(Switch,PSなど)<URL=switch_join,text=家庭用ゲーム機での接続方法>
